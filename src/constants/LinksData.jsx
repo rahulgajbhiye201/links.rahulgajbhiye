@@ -8,8 +8,8 @@ const LinkData = [
     href: "https://store.rahulgajbhiye.com",
   },
   {
-    name: "Attiriax | My Fashion Brand",
-    href: "https://attiriax.com",
+    name: "Attiraix | My Fashion Brand",
+    href: "https://attiraix.com",
   },
 ];
 
