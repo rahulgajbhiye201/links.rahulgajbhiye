@@ -6,7 +6,7 @@ const Social = () => {
       {SocialsData.map((data) => {
         return (
           <a
-            key={data.id}
+            key={data.href}
             href={data.href}
             target="_blank"
             rel="noopener noreferrer"
