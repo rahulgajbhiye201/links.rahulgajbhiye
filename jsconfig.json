@@ -1,0 +1,14 @@
+// For autocompletion
+
+{
+    "compilerOptions": {
+      "baseUrl": ".",
+      "paths": {
+        "@/*": ["src"],
+        "@components": ["src/components"],
+        "@containers": ["src/containers"],
+        "@constants": ["src/constants"],
+        "@public": ["./public"],
+      }
+    }
+  }
